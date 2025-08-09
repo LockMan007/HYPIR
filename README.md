@@ -3,6 +3,7 @@ Changed Python version to 3.11 (required for torch==2.6.0)<br>
 Changed Gradio version to 4.44.1 (higher version 5.x were yanked)<br>
 pip install gradio==4.44.1<br>
 pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cu121<br>
+pip install huggingface_hub[hf_xet]<br>
 python app.py --config configs/sd2_gradio.yaml --local --device cuda<br>
 <br>
 <p align="center">
