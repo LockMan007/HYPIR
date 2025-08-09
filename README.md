@@ -77,7 +77,7 @@ The following cases were upscaled by HYPIR-SD2. All resolutions are above 2k.
 ```shell
 git clone https://github.com/XPixelGroup/HYPIR.git
 cd HYPIR
-conda create -n hypir python=3.10
+conda create -n hypir python=3.11
 conda activate hypir
 pip install -r requirements.txt
 ```
