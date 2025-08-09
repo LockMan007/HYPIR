@@ -1,3 +1,7 @@
+UPDATE: Fixed mistakes.
+Changed Python version to 3.11 (required for torch==2.6.0)
+Changed Gradio version to 4.44.1 (higher version 5.x were yanked)
+
 <p align="center">
     <img src="assets/logo.png" width="400">
 </p>
