@@ -1,4 +1,4 @@
-<center>Tried to Fixed problems:<br>
+<center>Fixed problems:<br>
 Changed Python version to 3.11 (required for torch==2.6.0)<br>
 Changed Gradio version to 4.44.1 (higher version 5.x were yanked)<br>
 pip install gradio==4.44.1<br>
