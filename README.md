@@ -6,7 +6,9 @@ pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorc
 pip install huggingface_hub[hf_xet]<br>
 python app.py --config configs/sd2_gradio.yaml --local --device cuda<br>
 <br>
-<h1> I GIVE UP. this repo seems too messed up</h1>
+<h1>HYPIR\configs\sd2_gradio.yaml</h1>
+<h1>weight_path must include model filename, terrible programming!</h1>
+<h1>so like c:\ai\hypir\models\HYPIR_sd2.pth</h1>
 <br>
 <br>
 <br>
